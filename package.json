@@ -1,1 +1,11 @@
-
+{
+  "name": "sauce-labs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SauceDemo manual test cases and Playwright automation",
+  "scripts": {},
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
